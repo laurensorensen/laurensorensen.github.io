@@ -34,6 +34,8 @@
 	<p class="font_7" style="font-size:17px;"><span class="color_15"><a href="https://www.imdb.com/title/tt8079498/" target="_blank" data-content="https://www.imdb.com/title/tt8079498/" data-type="external" rel="undefined"><span class="color_15"><span style="text-decoration:underline;"><span style="font-family:proxima-n-w01-reg,sans-serif;"><span style="font-size:17px;">Vice Media</span></span></span></span></a></span></p>
 	</li>
 </ul>
-----
+
 ## Publications [forthcoming]
+
+## [Email for a free initial consultation](mailto:"lauren[dot]sorensen[at]gmail[dot]com]") or phone: (510) 859 8564
 
