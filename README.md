@@ -1,5 +1,5 @@
 ## CV
-[![CV](https://laurensorensen.github.io/CV2019.pdf)](https://laurensorensen.github.io/CV2019.pdf)
+[![CV](https://laurensorensen.github.io/CV_website.pdf)](https://laurensorensen.github.io/CV_website.pdf)
 
 ## Current projects
 > **City of Los Angeles' Department of Cultural Affairs: Hollyhock House Archives**
