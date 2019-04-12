@@ -9,7 +9,8 @@
 > Advising on time-based media collection care and conservation
 > Coordinating set up of a digital preservation system and workflows for digitization
 
-**Whitney Museum: artwork assessment for an upcoming time-based media acquisition
+**Whitney Museum**
+> Artwork assessment for an upcoming time-based media acquisition
 
 ## Past projects & clients
 
