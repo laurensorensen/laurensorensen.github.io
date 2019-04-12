@@ -1,6 +1,6 @@
 
 ## Contact me for a free initial consultation
-[Contact me for a free initial consultation](emailto:"lauren[dot]sorensen[at]gmail[dot]com]") or phone: (510) 859 8564
+[Contact me for a free initial consultation](mailto:"lauren[dot]sorensen[at]gmail[dot]com]") or phone: (510) 859 8564
 
 ## [Curriculum Vitae](https://laurensorensen.github.io/CV_website.pdf)
 
