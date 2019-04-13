@@ -28,14 +28,15 @@
 	<p class="font_7" style="font-size:17px;"><a href="https://www.sfballet.org/" target="_blank" data-content="https://www.sfballet.org/" data-type="external" rel="undefined"><span class="color_15"><span style="text-decoration:underline;"><span style="font-size:17px;"><span style="font-family:proxima-n-w01-reg,sans-serif;">San Francisco Ballet</span></span></span></span></a></p>
 	</li>
 	<li>
-	<p class="font_7" style="font-size:17px;"><span class="color_15"><span style="text-decoration:underline;"><span style="font-size:17px;"><a href="https://library.richmond.edu/" target="_blank" data-content="https://library.richmond.edu/" data-type="external" rel="undefined"><span style="font-family:proxima-n-w01-reg,sans-serif;">University of Richmond, Boatwright Memorial Library</span></span></span></span></p>
+	<p class="font_7" style="font-size:17px;"><span class="color_15"><span style="text-decoration:underline;"><span style="font-size:17px;"><a href="https://library.richmond.edu/" target="_blank" data-content="https://library.richmond.edu/" data-type="external" rel="undefined"><span style="font-family:proxima-n-w01-reg,sans-serif;">University of Richmond, Boatwright Memorial Library
+		</p>
 	</li>
 	<li>
 	<p class="font_7" style="font-size:17px;"><span class="color_15"><a href="https://www.imdb.com/title/tt8079498/" target="_blank" data-content="https://www.imdb.com/title/tt8079498/" data-type="external" rel="undefined"><span class="color_15"><span style="text-decoration:underline;"><span style="font-family:proxima-n-w01-reg,sans-serif;"><span style="font-size:17px;">Vice Media</span></span></span></span></a></span></p>
 	</li>
 </ul>
-
+----
 ## Publications [forthcoming]
-
+----
 ## [Email for a free initial consultation](mailto:"lauren[dot]sorensen[at]gmail[dot]com]") or phone: (510) 859 8564
-
+----
