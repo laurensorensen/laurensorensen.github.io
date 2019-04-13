@@ -14,25 +14,24 @@
 > Artwork assessment and condition report for an upcoming time-based media acquisition
 ----
 ## Past projects & clients
-<ul class="font_7 color_15" style="font-family:proxima-n-w01-reg,sans-serif; font-size:17px;">
+<ul>
 	<li>
-	<p class="font_7" style="font-size:17px;"><a href="https://bavc.org/preserve-media" target="_blank" data-content="https://bavc.org/preserve-media" data-type="external" rel="undefined"><span class="color_15"><span style="text-decoration:underline;"><span style="font-size:17px;"><span style="font-family:proxima-n-w01-reg,sans-serif;">Bay Area Video Coalition</span></span></span></span></a></p>
+	<a href="https://bavc.org/preserve-media" target="_blank">Bay Area Video Coalition</a>
 	</li>
 	<li>
-	<p class="font_7" style="font-size:17px;"><span class="color_15"><a href="https://catchandrelease.com/" target="_blank" data-content="https://catchandrelease.com/" data-type="external" rel="undefined"><span class="color_15"><span style="text-decoration:underline;"><span style="font-family:proxima-n-w01-reg,sans-serif;"><span style="font-size:17px;">Catch&amp;Release, Inc.</span></span></span></span></a></span></p>
+	<a href="https://catchandrelease.com/" target="_blank" data-content="https://catchandrelease.com/">Catch&amp;Release, Inc.</a>
 	</li>
 	<li>
-	<p class="font_7" style="font-size:17px;"><a href="https://jemcohenfilms.com/" target="_blank" data-content="https://jemcohenfilms.com/" data-type="external" rel="undefined"><span class="color_15"><span style="text-decoration:underline;"><span style="font-size:17px;"><span style="font-family:proxima-n-w01-reg,sans-serif;">Gravity Hill Films</span></span></span></span></a></p>
+	<a href="https://jemcohenfilms.com/" target="_blank">Gravity Hill Films</a>
 	</li>
 	<li>
-	<p class="font_7" style="font-size:17px;"><a href="https://www.sfballet.org/" target="_blank" data-content="https://www.sfballet.org/" data-type="external" rel="undefined"><span class="color_15"><span style="text-decoration:underline;"><span style="font-size:17px;"><span style="font-family:proxima-n-w01-reg,sans-serif;">San Francisco Ballet</span></span></span></span></a></p>
+	<a href="https://www.sfballet.org/" target="_blank">San Francisco Ballet</a>
 	</li>
 	<li>
-	<p class="font_7" style="font-size:17px;"><span class="color_15"><span style="text-decoration:underline;"><span style="font-size:17px;"><a href="https://library.richmond.edu/" target="_blank" data-content="https://library.richmond.edu/" data-type="external" rel="undefined"><span style="font-family:proxima-n-w01-reg,sans-serif;">University of Richmond, Boatwright Memorial Library
-		</p>
+	<a href="https://library.richmond.edu/" target="_blank">University of Richmond, Boatwright Memorial Library</a>
 	</li>
 	<li>
-	<p class="font_7" style="font-size:17px;"><span class="color_15"><a href="https://www.imdb.com/title/tt8079498/" target="_blank" data-content="https://www.imdb.com/title/tt8079498/" data-type="external" rel="undefined"><span class="color_15"><span style="text-decoration:underline;"><span style="font-family:proxima-n-w01-reg,sans-serif;"><span style="font-size:17px;">Vice Media</span></span></span></span></a></span></p>
+	<a href="https://www.imdb.com/title/tt8079498/" target="_blank">Vice Media</a>
 	</li>
 </ul>
 ----
