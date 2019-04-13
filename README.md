@@ -1,16 +1,21 @@
 
 ## [Curriculum Vitae](https://laurensorensen.github.io/CV_website.pdf)
 
+
 ## Current projects
-**City of Los Angeles' Department of Cultural Affairs: Hollyhock House Archives**
+
+
+>**City of Los Angeles' Department of Cultural Affairs: Hollyhock House Archives**
 > Coordinating digitization and online access for the archives of Frank Lloyd Wright historic Hollyhock House in East Hollywood, Los
 > Angeles, California
 
-**Glenstone Museum: post-war and contemporary art museum in Potomac, Maryland**
+
+>**Glenstone Museum: post-war and contemporary art museum in Potomac, Maryland**
 > Advising on time-based media collection care and conservation
 > Coordinating set up of a digital preservation system and workflows for digitization
 
-**Whitney Museum**
+
+>**Whitney Museum**
 > Artwork assessment and condition report for an upcoming time-based media acquisition
 
 ## Past projects & clients
