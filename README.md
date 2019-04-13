@@ -1,9 +1,9 @@
 
 ## [Curriculum Vitae](https://laurensorensen.github.io/CV_website.pdf)
-
+<hr />
 
 ## Current projects
-
+<hr />
 
 >**City of Los Angeles' Department of Cultural Affairs: Hollyhock House Archives**
 > Coordinating digitization and online access for the archives of Frank Lloyd Wright historic Hollyhock House in East Hollywood, Los
@@ -17,7 +17,7 @@
 
 >**Whitney Museum**
 > Artwork assessment and condition report for an upcoming time-based media acquisition
-
+<hr />
 ## Past projects & clients
 <ul>
 	<li>
@@ -39,8 +39,8 @@
 	<a href="https://www.imdb.com/title/tt8079498/" target="_blank">Vice Media</a>
 	</li>
 </ul>
-
+<hr />
 ## Publications [forthcoming]
-
+<hr />
 ## [Email for a free initial consultation](mailto:"lauren[dot]sorensen[at]gmail[dot]com]") or phone: (510) 859 8564
-
+<hr />
