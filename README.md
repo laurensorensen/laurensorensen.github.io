@@ -50,5 +50,6 @@
 <hr />
 ## Past publications and talks
 <hr />
-## [Email for a free initial consultation](mailto:"lauren[dot]sorensen[at]gmail[dot]com]") or phone: (510) 859 8564
+## [Email for a free initial consultation](mailto:"lauren[dot]sorensen[at]gmail[dot]com]")
+Phone: ( 510 ) 859 8564
 <hr />
