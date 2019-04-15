@@ -10,23 +10,21 @@
 > Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California
 
 
->**Glenstone Museum** | post-war and contemporary art museum in Potomac, Maryland |
+>**[Glenstone Museum](https://www.glenstone.org/)** | post-war and contemporary art museum in Potomac, Maryland |
 
 > Advising on time-based media collection care and conservation
 > Coordinating set up of a digital preservation system and workflows for digitization
 
 
->**Whitney Museum** |
+>**[Whitney Museum of American Art](https://www.whitney.org/)** |
 
 > Artwork assessment and condition report for an upcoming time-based media acquisition
 <hr />
 
->**[The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image), Editorial Board member**
+>**[The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image), member of the Editorial Board**
 <hr /> 
 
 >**[Contributing author, Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2020
-
-
 
 ## Past projects & clients
 <ul>
