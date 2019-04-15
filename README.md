@@ -5,19 +5,27 @@
 ## Current projects
 <hr />
 
->**City of Los Angeles' Department of Cultural Affairs: Hollyhock House Archives**
+>**City of Los Angeles' Department of Cultural Affairs: Hollyhock House Archives |**
 > Coordinating digitization and online access for the archives of Frank Lloyd Wright historic Hollyhock House in East Hollywood, Los
 > Angeles, California
 
 
->**Glenstone Museum: post-war and contemporary art museum in Potomac, Maryland**
+>**Glenstone Museum: post-war and contemporary art museum in Potomac, Maryland |**
 > Advising on time-based media collection care and conservation
 > Coordinating set up of a digital preservation system and workflows for digitization
 
 
->**Whitney Museum**
+>**Whitney Museum |**
 > Artwork assessment and condition report for an upcoming time-based media acquisition
 <hr />
+
+>**[The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image), Editorial Board member**
+<hr /> 
+
+>**Contributing author, Archival Accessioning** by Audra Eagle Yun, Society of American Archivists, 2020
+
+
+
 ## Past projects & clients
 <ul>
 	<li>
@@ -40,7 +48,7 @@
 	</li>
 </ul>
 <hr />
-## Publications [forthcoming]
+## Past publications and talks
 <hr />
 ## [Email for a free initial consultation](mailto:"lauren[dot]sorensen[at]gmail[dot]com]") or phone: (510) 859 8564
 <hr />
