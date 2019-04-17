@@ -19,31 +19,31 @@ Coordinating set up of a digital preservation system and workflows for digitizat
 ## Past projects & clients
 <ul>
 	<li> 
-2018-2019 **[City of Los Angeles' Department of Cultural Affairs](https://culturela.org/)** Hollyhock House Archive
-* Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California. Public-facing archive site release in June 2019.
-
+<a href="https://culturela.org/" target="_blank">City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
+Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California. Public-facing archive site release in June 2019.
+</li>
 	<li>
-	<a href="https://bavc.org/preserve-media" target="_blank">Bay Area Video Coalition</a>
+	<a href="https://bavc.org/preserve-media" target="_blank">2010-2013: Bay Area Video Coalition (BAVC)</a> Led BAVC consultation and assessment program.
 	</li>
 	<li>
-	<a href="https://catchandrelease.com/" target="_blank" data-content="https://catchandrelease.com/">Catch&amp;Release, Inc.</a>
+	<a href="https://catchandrelease.com/" target="_blank" data-content="https://catchandrelease.com/">2016-2018: Catch&amp;Release, Inc.,</a> Archival footage research and license clearing.
 	</li>
 	<li>
-	<a href="https://jemcohenfilms.com/" target="_blank">Gravity Hill Films</a>
+	<a href="https://www.sfballet.org/" target="_blank">2010: San Francisco Ballet,</a>Collection assessment and conservation report on 3/4" Umatic analog videotapes. 
 	</li>
 	<li>
-	<a href="https://www.sfballet.org/" target="_blank">San Francisco Ballet</a>
+	<a href="https://www.imdb.com/title/tt8079498/" target="_blank">2017: Vice Media</a> Archival footage research for production project.
 	</li>
 	<li>
-	<a href="https://library.richmond.edu/" target="_blank">University of Richmond, Boatwright Memorial Library</a>
+	<a href="https://library.richmond.edu/" target="_blank">2016: University of Richmond, Boatwright Memorial Library</a> Moving image conservation assessment for library collections, including audio, video and film.
 	</li>
 	<li>
-	<a href="https://www.imdb.com/title/tt8079498/" target="_blank">Vice Media</a>
+	<a href="https://jemcohenfilms.com/" target="_blank">Gravity Hill Films</a> 2006-2007: Collection assessment and conservation actions for small gauge film in collection of filmmaker Jem Cohen. 
 	</li>
 </ul>
 <hr />
 ## Past publications and talks
 <hr />
-## [Email](mailto:"lauren[dot]sorensen[at]gmail[dot]com]")
+## [Email me](mailto:"lauren[dot]sorensen[at]gmail[dot]com]")
 Phone: ( 510 ) 859 8564
 <hr />
