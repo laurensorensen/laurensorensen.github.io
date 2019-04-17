@@ -5,9 +5,8 @@
 ## Current projects
 <hr />
 
-**City of Los Angeles' Department of Cultural Affairs** Hollyhock House Archive
-
-Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California
+**[City of Los Angeles' Department of Cultural Affairs](https://culturela.org/)** Hollyhock House Archive
+* Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California
 
 **[Glenstone Museum](https://www.glenstone.org/)** post-war and contemporary art museum in Potomac, Maryland 
 
@@ -47,6 +46,6 @@ Artwork assessment and condition report for an upcoming time-based media acquisi
 <hr />
 ## Past publications and talks
 <hr />
-## [Email for a free initial consultation](mailto:"lauren[dot]sorensen[at]gmail[dot]com]")
+## [Email](mailto:"lauren[dot]sorensen[at]gmail[dot]com]")
 Phone: ( 510 ) 859 8564
 <hr />
