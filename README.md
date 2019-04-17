@@ -13,32 +13,29 @@ Coordinating set up of a digital preservation system and workflows for digitizat
 
 **Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image)**
 
-**[Contributing author, Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2020
+**Contributing author, [Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2020
 <hr />
 
-## Past projects & clients
+## Recent projects & clients
 <ul>
 	<li> 
-<a href="https://culturela.org/" target="_blank">City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
+<a href="https://culturela.org/" target="_blank">2019, City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
 Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California. Public-facing archive site release in June 2019.
 </li>
 	<li>
-	<a href="https://bavc.org/preserve-media" target="_blank">2010-2013: Bay Area Video Coalition (BAVC)</a> Led BAVC consultation and assessment program.
+	<a href="https://catchandrelease.com/" target="_blank" data-content="https://catchandrelease.com/">2016-2018, Catch&amp;Release, Inc:</a> Archival footage research and license clearing.
 	</li>
 	<li>
-	<a href="https://catchandrelease.com/" target="_blank" data-content="https://catchandrelease.com/">2016-2018: Catch&amp;Release, Inc.,</a> Archival footage research and license clearing.
+	<a href="https://www.imdb.com/title/tt8079498/" target="_blank">2017, Vice Media:</a> Archival footage research for production project.
 	</li>
 	<li>
-	<a href="https://www.sfballet.org/" target="_blank">2010: San Francisco Ballet,</a>Collection assessment and conservation report on 3/4" Umatic analog videotapes. 
+	<a href="https://library.richmond.edu/" target="_blank">2016, University of Richmond, Boatwright Memorial Library:</a> Moving image conservation assessment for library collections, including audio, video and film.
 	</li>
 	<li>
-	<a href="https://www.imdb.com/title/tt8079498/" target="_blank">2017: Vice Media</a> Archival footage research for production project.
+	<a href="https://www.sfballet.org/" target="_blank">2011, San Francisco Ballet:</a>Collection assessment & conservation report on 3/4" Umatic analog videotapes. 
 	</li>
 	<li>
-	<a href="https://library.richmond.edu/" target="_blank">2016: University of Richmond, Boatwright Memorial Library</a> Moving image conservation assessment for library collections, including audio, video and film.
-	</li>
-	<li>
-	<a href="https://jemcohenfilms.com/" target="_blank">Gravity Hill Films</a> 2006-2007: Collection assessment and conservation actions for small gauge film in collection of filmmaker Jem Cohen. 
+	<a href="https://jemcohenfilms.com/" target="_blank">2006-2007, Gravity Hill Films:</a> Collection assessment and conservation actions for small gauge film in collection of filmmaker Jem Cohen. 
 	</li>
 </ul>
 <hr />
