@@ -4,9 +4,6 @@
 
 ## Current projects
 
-**[City of Los Angeles' Department of Cultural Affairs](https://culturela.org/)** Hollyhock House Archive
-* Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California
-
 **[Glenstone Museum](https://www.glenstone.org/)** post-war and contemporary art museum in Potomac, Maryland 
 * Advising on time-based media collection care and conservation
 Coordinating set up of a digital preservation system and workflows for digitization
@@ -14,13 +11,17 @@ Coordinating set up of a digital preservation system and workflows for digitizat
 **[Whitney Museum of American Art](https://www.whitney.org/)**
 * Artwork assessment and condition report for an upcoming time-based media acquisition
 
->**Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image)**
+**Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image)**
 
->**[Contributing author, Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2020
+**[Contributing author, Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2020
 <hr />
 
 ## Past projects & clients
 <ul>
+	<li> 
+2018-2019 **[City of Los Angeles' Department of Cultural Affairs](https://culturela.org/)** Hollyhock House Archive
+* Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California. Public-facing archive site release in June 2019.
+
 	<li>
 	<a href="https://bavc.org/preserve-media" target="_blank">Bay Area Video Coalition</a>
 	</li>
