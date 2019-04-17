@@ -5,21 +5,18 @@
 ## Current projects
 <hr />
 
->**City of Los Angeles' Department of Cultural Affairs** Hollyhock House Archive
+**City of Los Angeles' Department of Cultural Affairs** Hollyhock House Archive
 
-> Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California
+Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California
 
+**[Glenstone Museum](https://www.glenstone.org/)** post-war and contemporary art museum in Potomac, Maryland 
 
->**[Glenstone Museum](https://www.glenstone.org/)** post-war and contemporary art museum in Potomac, Maryland 
+Advising on time-based media collection care and conservation
+Coordinating set up of a digital preservation system and workflows for digitization
 
-> Advising on time-based media collection care and conservation
-> Coordinating set up of a digital preservation system and workflows for digitization
+**[Whitney Museum of American Art](https://www.whitney.org/)**
 
-
->**[Whitney Museum of American Art](https://www.whitney.org/)**
-
-> Artwork assessment and condition report for an upcoming time-based media acquisition
-<hr />
+Artwork assessment and condition report for an upcoming time-based media acquisition
 
 >**[The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image), member of the Editorial Board**
 <hr /> 
