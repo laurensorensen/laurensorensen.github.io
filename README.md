@@ -2,6 +2,12 @@
 ## [Curriculum Vitae](https://laurensorensen.github.io/CV_website.pdf)
 <hr />
 
+<form action="https://formspree.io/lauren.sorensen@gmail.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
+
 ## Current projects
 
 **[Glenstone Museum](https://www.glenstone.org/)** post-war and contemporary art museum in Potomac, Maryland 
