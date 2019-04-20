@@ -29,18 +29,18 @@ Coordinating digitization and online access to the archives of Frank Lloyd Wrigh
 	<a href="https://www.imdb.com/title/tt8079498/" target="_blank">2017, Vice Media:</a> Archival footage research for production project.
 	</li>
 	<li>
-	<a href="https://library.richmond.edu/" target="_blank">2016, University of Richmond, Boatwright Memorial Library:</a> Moving image conservation assessment for library collections, including audio, video and film.
+	<a href="https://library.richmond.edu/" target="_blank">2016, University of Richmond, Boatwright Memorial Library:</a> Moving image & sound conservation assessment for library collections, including audio, video and film.
 	</li>
 	<li>
-	<a href="https://www.sfballet.org/" target="_blank">2011, San Francisco Ballet:</a>Collection assessment & conservation report on 3/4" Umatic analog videotapes. 
+	<a href="https://www.sfballet.org/" target="_blank">2011, San Francisco Ballet:</a> Collection assessment & conservation report on 3/4" Umatic analog videotapes. 
 	</li>
 	<li>
-	<a href="https://jemcohenfilms.com/" target="_blank">2006-2007, Gravity Hill Films:</a> Collection assessment and conservation actions for small gauge film in collection of filmmaker Jem Cohen. 
+	<a href="https://jemcohenfilms.com/" target="_blank">2006-2007, Gravity Hill Films:</a> Collection assessment & conservation actions for small gauge film in collection of filmmaker Jem Cohen. 
 	</li>
 </ul>
 <hr />
 ## Past publications and talks
 <hr />
-## [Email me](mailto:"lauren[dot]sorensen[at]gmail[dot]com]")
+## [Email for an initial consultation](mailto:"lauren[dot]sorensen[at]gmail[dot]com]")
 Phone: ( 510 ) 859 8564
 <hr />
