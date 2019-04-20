@@ -27,7 +27,13 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <p> 
+        <form action="https://formspree.io/lauren.sorensen@gmail.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
+        </p>
         {% endif %}
 
         {% if site.show_downloads %}
