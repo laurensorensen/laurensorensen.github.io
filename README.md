@@ -1,5 +1,5 @@
 
-## [Curriculum Vitae](https://laurensorensen.github.io/CV_website.pdf)
+## [Resumé (PDF file)](https://laurensorensen.github.io/CV_website.pdf)
 <hr />
 
 ## Current projects
@@ -45,5 +45,5 @@ Coordinating digitization and online access to the archives of Frank Lloyd Wrigh
 	</li>
 </ul>
 <hr />
-<h3>Past publications and talks</h3>
+<h3>Past publications and talks (PDF file)</h3>
 <hr />
