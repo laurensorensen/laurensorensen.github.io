@@ -1,3 +1,6 @@
+
+@import "jekyll-theme-minimal";
+
 .fstPage {
     background-image:url("https://laurensorensen.github.io/background.jpg");
     /*background-color: lightgray;*/
@@ -6,7 +9,4 @@
     opacity: 0.2;
     background-size:cover;
 }
----
----
 
-@import "jekyll-theme-minimal";
