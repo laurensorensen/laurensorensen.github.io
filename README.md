@@ -1,7 +1,7 @@
 
-# [Resumé (PDF file)](https://laurensorensen.github.io/CV_website.pdf)
+# [resumé (PDF file)](https://laurensorensen.github.io/CV_website.pdf)
 
-## [Past publications and talks (PDF file)](https://laurensorensen.github.io/publications.pdf)
+## [past publications and talks (PDF file)](https://laurensorensen.github.io/publications.pdf)
 <hr />
 ## Services 
 * Assistance in preserving & providing access to archives
