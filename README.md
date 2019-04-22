@@ -39,8 +39,5 @@ Coordinating digitization and online access to the archives of Frank Lloyd Wrigh
 	</li>
 </ul>
 <hr />
-## Past publications and talks
-<hr />
-## [Email for an initial consultation](mailto:"lauren[dot]sorensen[at]gmail[dot]com]")
-Phone: ( 510 ) 859 8564
+<h3>Past publications and talks</h3>
 <hr />
