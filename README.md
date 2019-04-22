@@ -3,6 +3,14 @@
 
 ## [Past publications and talks (PDF file)](https://laurensorensen.github.io/publications.pdf)
 <hr />
+## Services 
+* Assistance in preserving & providing access to archives
+* Archival footage research for creative projects
+* Collection assessment & inventory
+* Digitization strategy & coordination
+* Digital preservation consultation
+* Project management 
+<hr />
 
 ## Current projects
 
