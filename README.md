@@ -19,9 +19,12 @@ Coordinating set up of a digital preservation system and workflows for digitizat
 ## Recent projects & clients
 <ul>
 	<li> 
-<a href="https://culturela.org/" target="_blank">2019, City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
+<a href="https://culturela.org/" target="_blank">2018-19, City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
 Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California. Public-facing archive site release in June 2019.
 </li>
+	<li>
+	<a href="http://doi.org/10.5334/kula.32/" target="_blank"> 2018, <i>Analog Video in Moving Image Archives & Conservation: Infrastructures of Knowledge from Production to Preservation.</i></a> published by KULA: knowledge creation, dissemination, and preservation studies, University of Victoria, British Columbia. 
+	</li>
 	<li>
 	<a href="https://catchandrelease.com/" target="_blank" data-content="https://catchandrelease.com/">2016-2018, Catch&amp;Release, Inc:</a> Archival footage research and license clearing.
 	</li>
