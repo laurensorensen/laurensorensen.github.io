@@ -14,12 +14,9 @@
 
 ## Current projects
 
-**[Glenstone Museum](https://www.glenstone.org/)** post-war and contemporary art museum in Potomac, Maryland 
-* Advising on time-based media collection care and conservation
-Coordinating set up of a digital preservation system and workflows for digitization
+**[Glenstone Museum](https://www.glenstone.org/)**: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
 
-**[Whitney Museum of American Art](https://www.whitney.org/)**
-* Artwork assessment and condition report for an upcoming time-based media acquisition
+**[Whitney Museum of American Art], conservation department (https://www.whitney.org/)**: Artwork assessment and condition report for an upcoming time-based media acquisition
 
 **Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image)**
 
