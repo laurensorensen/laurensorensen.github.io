@@ -1,7 +1,7 @@
 
-## [Resumé (PDF file)](https://laurensorensen.github.io/CV_website.pdf)
+# [Resumé (PDF file)](https://laurensorensen.github.io/CV_website.pdf)
 
-# [Past publications and talks (PDF file)](https://laurensorensen.github.io/publications.pdf)
+## [Past publications and talks (PDF file)](https://laurensorensen.github.io/publications.pdf)
 <hr />
 
 ## Current projects
