@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+.fstPage {
+    background-image:url("https://laurensorensen.github.io/background.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    opacity: 0.2;
+    background-size:cover;
+}
