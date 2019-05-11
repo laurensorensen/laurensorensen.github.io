@@ -1,5 +1,6 @@
 
 ## [CV [PDF file]](https://laurensorensen.github.io/CV_website.pdf)
+## [Publications and talks [PDF file]](https://laurensorensen.github.io/publications.pdf)
 
 <hr />
 ## Services 
@@ -20,7 +21,7 @@
 **Contributing author, [Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2020
 <hr />
 
-## Recent projects & clients
+## Contract projects & clients
 <ul>
 	<li> 
 <a href="https://culturela.org/" target="_blank">2018-19, City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
@@ -49,6 +50,4 @@ Coordinating digitization and online access to the archives of Frank Lloyd Wrigh
 	<a href="https://jemcohenfilms.com/" target="_blank">2006-2007, Gravity Hill Films:</a> Collection assessment & conservation actions for small gauge film in collection of filmmaker Jem Cohen. 
 	</li>
 </ul>
-<hr >
-## [Past publications and talks [PDF file]](https://laurensorensen.github.io/publications.pdf)
-<hr />
+
