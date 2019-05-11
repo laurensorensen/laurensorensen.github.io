@@ -1,7 +1,6 @@
 
 ## [CV [PDF file]](https://laurensorensen.github.io/CV_website.pdf)
 
-## [past publications and talks [PDF file]](https://laurensorensen.github.io/publications.pdf)
 <hr />
 ## Services 
 * Preserving & providing access to archives
@@ -16,8 +15,6 @@
 
 **[Glenstone Museum](https://www.glenstone.org/)**: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
 
-**[Whitney Museum of American Art, conservation department](https://www.whitney.org/)**: Artwork assessment and condition report for an upcoming time-based media acquisition
-
 **Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image)**
 
 **Contributing author, [Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2020
@@ -29,6 +26,7 @@
 <a href="https://culturela.org/" target="_blank">2018-19, City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
 Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California. Public-facing archive site release in June 2019.
 </li>
+<li> <a href="https://www.whitney.org/"  target="_blank">2019, Whitney Museum of American Art, conservation department</a>: Artwork assessment and condition report for an upcoming time-based media acquisition
 	<li>
 	<a href="http://doi.org/10.5334/kula.32/" target="_blank"> 2018, <i>Analog Video in Moving Image Archives & Conservation: Infrastructures of Knowledge from Production to Preservation.</i></a> published by KULA: knowledge creation, dissemination, and preservation studies, University of Victoria, British Columbia. 
 	</li>
@@ -51,4 +49,4 @@ Coordinating digitization and online access to the archives of Frank Lloyd Wrigh
 	<a href="https://jemcohenfilms.com/" target="_blank">2006-2007, Gravity Hill Films:</a> Collection assessment & conservation actions for small gauge film in collection of filmmaker Jem Cohen. 
 	</li>
 </ul>
-
+## [Past publications and talks [PDF file]](https://laurensorensen.github.io/publications.pdf)
