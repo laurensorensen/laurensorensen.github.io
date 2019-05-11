@@ -1,5 +1,7 @@
 
-# [CV [PDF file]](https://laurensorensen.github.io/CV_website.pdf)
+![📷: Myleen Hollero](https://raw.githubusercontent.com/laurensorensen/laurensorensen.github.io/master/me.png)
+
+## [CV [PDF file]](https://laurensorensen.github.io/CV_website.pdf)
 
 ## [past publications and talks [PDF file]](https://laurensorensen.github.io/publications.pdf)
 <hr />
