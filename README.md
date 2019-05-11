@@ -35,7 +35,7 @@ Coordinating digitization and online access to the archives of Frank Lloyd Wrigh
 	<a href="http://doi.org/10.5334/kula.32/" target="_blank"> 2018, <i>Analog Video in Moving Image Archives & Conservation: Infrastructures of Knowledge from Production to Preservation.</i></a> published by KULA: knowledge creation, dissemination, and preservation studies, University of Victoria, British Columbia. 
 	</li>
 	<li>
-	2016-2018, Secretary & Director of the Board, <a href="http://doi.org/10.5334/kula.32/" target="_blank">Association of Moving Image Archivists.</a>
+	2016-2018, Secretary & Director of the Board, <a href="http://www.amianet.org/" target="_blank">Association of Moving Image Archivists.</a>
 	</li>
 	<li>
 	<a href="https://catchandrelease.com/" target="_blank" data-content="https://catchandrelease.com/">2016-2018, Catch&amp;Release, Inc:</a> Archival footage research and license clearing.
