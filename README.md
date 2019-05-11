@@ -49,4 +49,6 @@ Coordinating digitization and online access to the archives of Frank Lloyd Wrigh
 	<a href="https://jemcohenfilms.com/" target="_blank">2006-2007, Gravity Hill Films:</a> Collection assessment & conservation actions for small gauge film in collection of filmmaker Jem Cohen. 
 	</li>
 </ul>
+<hr >
 ## [Past publications and talks [PDF file]](https://laurensorensen.github.io/publications.pdf)
+<hr />
