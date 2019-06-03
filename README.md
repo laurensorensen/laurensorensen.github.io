@@ -1,5 +1,5 @@
 
-## [CV [PDF file]](https://laurensorensen.github.io/CV_website.pdf)
+## [CV [PDF file]](https://laurensorensen.github.io/CV_website2019.pdf)
 ## [Publications and talks [PDF file]](https://laurensorensen.github.io/publications.pdf)
 
 <hr />
