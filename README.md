@@ -14,7 +14,7 @@
 
 ## Current 
 
-**[Whirl-i-Gig](https://collectiveaccess.org)**: Full-time consultant, assisting clients with implementation of open source CollectiveAccess collection management and presentation software. 
+**[Whirl-i-Gig](https://collectiveaccess.org)**: Full-time consultant, assisting clients with implementation of open source CollectiveAccess collection management and presentation software
 
 **[Glenstone Museum](https://www.glenstone.org/)**: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
 
