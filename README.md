@@ -12,9 +12,13 @@
 * Project management 
 <hr />
 
-## Current projects
+## Current 
+
+**[Whirl-i-Gig](https://collectiveaccess.org)**: Full-time consultant, assisting clients with implementation of open source CollectiveAccess collection management and presentation software. 
 
 **[Glenstone Museum](https://www.glenstone.org/)**: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
+
+**[Visual Effects Society](https://www.visualeffectssociety.com/)**: Managing the development of an organization-wide digital archive. 
 
 **Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image)**
 
