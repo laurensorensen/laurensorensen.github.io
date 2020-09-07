@@ -6,7 +6,7 @@
 ## Services 
 * Video conservation consultation
 * Archival footage research for creative projects
-* Education and teaching around metadata, digital preservation, video conservation
+* Education and training
 <hr />
 
 ## Current 
@@ -20,9 +20,9 @@
 
 ## Past projects & clients
 <ul>
-	<li> <a href="https://www.whitney.org/"  target="_blank">2019, Whitney Museum of American Art, conservation department</a>: Artwork assessment and condition report for an upcoming time-based media acquisition.
+	<li> <a href="https://www.whitney.org/"  target="_blank">2019, Whitney Museum of American Art, conservation department</a>: Artwork assessment and condition report for a time-based media acquisition.
 	</li>
-	<li> <a href="https://www.whitney.org/"  target="_blank">2016-2019, [Glenstone Museum](https://www.glenstone.org/)**: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
+	<li> <a href="https://www.glenstone.org/)"  target="_blank">2016-2019, Glenstone Museum, conservation</a>: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
 		</li>
 	<li> 
 <a href="https://culturela.org/" target="_blank">2018-19, City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
