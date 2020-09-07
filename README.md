@@ -25,7 +25,7 @@
 	<li> <a href="https://www.glenstone.org/)"  target="_blank">2016-2019, Glenstone Museum, conservation</a>: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
 		</li>
 	<li> 
-<a href="https://culturela.org/" target="_blank">2018-19, City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
+<a href="https://culturela.org/" target="_blank">2018-2019, City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
 Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California. Public-facing archive site release in June 2019.
 </li>
 	<li>
