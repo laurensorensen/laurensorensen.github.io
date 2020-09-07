@@ -2,9 +2,10 @@
 ## [CV [PDF file]](https://laurensorensen.github.io/CV_website_2020.pdf)
 <hr />
 ## Services 
+* Education and training
 * Video conservation consultation
 * Archival footage research for creative projects
-* Education and training
+
 <hr />
 
 ## Current 
