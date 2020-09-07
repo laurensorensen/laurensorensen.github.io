@@ -4,21 +4,14 @@
 
 <hr />
 ## Services 
-* Preserving & providing access to archives
+* Video conservation consultation
 * Archival footage research for creative projects
-* Collection assessment & inventory
-* Digitization strategy & coordination
-* Digital preservation consultation
-* Project management 
+* Education and teaching around metadata, digital preservation, video conservation
 <hr />
 
 ## Current 
 
 **[Whirl-i-Gig](https://collectiveaccess.org)**: Full-time consultant, assisting clients with implementation of open source CollectiveAccess collection management and presentation software
-
-**[Glenstone Museum](https://www.glenstone.org/)**: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
-
-**[Visual Effects Society](https://www.visualeffectssociety.com/)**: Managing the development of an organization-wide digital archive
 
 **Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image)**
 
@@ -29,6 +22,8 @@
 <ul>
 	<li> <a href="https://www.whitney.org/"  target="_blank">2019, Whitney Museum of American Art, conservation department</a>: Artwork assessment and condition report for an upcoming time-based media acquisition.
 	</li>
+	<li> <a href="https://www.whitney.org/"  target="_blank">2016-2019, [Glenstone Museum](https://www.glenstone.org/)**: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
+		</li>
 	<li> 
 <a href="https://culturela.org/" target="_blank">2018-19, City of Los Angeles' Department of Cultural Affairs, Hollyhock House Archive:</a> 
 Coordinating digitization and online access to the archives of Frank Lloyd Wright designed historic Hollyhock House in East Hollywood, Los Angeles, California. Public-facing archive site release in June 2019.
