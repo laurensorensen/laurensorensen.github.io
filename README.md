@@ -14,7 +14,7 @@
 
 **Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image)**
 
-**Contributing author, [Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2020
+**Contributing author, [Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2021
 <hr />
 
 ## Past projects & clients
