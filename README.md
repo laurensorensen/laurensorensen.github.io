@@ -18,7 +18,7 @@
 ## Past projects & clients
 <ul>
 	
-<li> <a href="https://collectiveaccess.org"  target="_blank">2019-2021, Whirl-i-Gig: Full-time consultant, assisting clients with implementation of open source CollectiveAccess collection management and presentation software</li>
+<li> <a href="https://collectiveaccess.org"  target="_blank">2019-2021, Whirl-i-Gig:</a> Full-time consultant, assisting museum and archives clients with implementation of open source CollectiveAccess collection management and presentation software</li>
 	<li> <a href="https://www.whitney.org/"  target="_blank">2019, Whitney Museum of American Art, conservation department</a>: Artwork assessment and condition report for a time-based media acquisition.
 	</li>
 	<li> <a href="https://www.glenstone.org/)"  target="_blank">2016-2019, Glenstone Museum, conservation</a>: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
