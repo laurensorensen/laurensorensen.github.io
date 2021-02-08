@@ -10,8 +10,6 @@
 
 ## Current 
 
-**[Whirl-i-Gig](https://collectiveaccess.org)**: Full-time consultant, assisting clients with implementation of open source CollectiveAccess collection management and presentation software
-
 **Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image)**
 
 **Contributing author, [Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2021
@@ -19,6 +17,8 @@
 
 ## Past projects & clients
 <ul>
+	
+<li> **[Whirl-i-Gig](https://collectiveaccess.org)**: Full-time consultant, assisting clients with implementation of open source CollectiveAccess collection management and presentation software</li>
 	<li> <a href="https://www.whitney.org/"  target="_blank">2019, Whitney Museum of American Art, conservation department</a>: Artwork assessment and condition report for a time-based media acquisition.
 	</li>
 	<li> <a href="https://www.glenstone.org/)"  target="_blank">2016-2019, Glenstone Museum, conservation</a>: Advising on time-based media collection care and conservation, and coordinating establishment of a digital preservation system and workflows for digitization
