@@ -10,9 +10,15 @@
 
 ## Current 
 
-**Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image)**
+**Consulting Data Analyst, [Council on Library & Information Resources](https://www.clir.org/)**
 
-**Contributing author, [Archival Accessioning](https://twitter.com/accessionthis/status/989871137730408448)** by Audra Eagle Yun, published by Society of American Archivists, forthcoming 2021
+**Contractor, [Digital Preservation Outreach and Education Network (DPOE-N)](https://dpoe.network/)**
+
+**Research Consultant, [Alan Lomax Archive](https://archive.culturalequity.org/)**
+
+**Editorial Board, [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image/)**
+
+**Contributing author, [Archival Accessioning](https://www.bibliovault.org/BV.book.epl?ISBN=9781945246579)** by Audra Eagle Yun, published by Society of American Archivists, July 2021
 <hr />
 
 ## Past projects & clients
