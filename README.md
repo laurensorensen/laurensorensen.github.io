@@ -3,7 +3,9 @@
 <hr />
 ## Services 
 * Education and training
+* Audiovisual media archival assessment
 * Video conservation consultation
+* Digital preservation & access project management
 * Archival footage research for creative projects
 
 <hr />
