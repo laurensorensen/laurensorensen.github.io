@@ -2,10 +2,10 @@
 ## [CV [PDF file]](https://laurensorensen.github.io/CV_website_2020.pdf)
 <hr />
 ## Services 
+* Archival footage research for creative projects
 * Audiovisual media archival assessment
 * Video conservation consultation
 * Digital preservation & access project management
-* Archival footage research for creative projects
 * Education and training
 
 <hr />
