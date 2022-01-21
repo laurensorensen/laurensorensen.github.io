@@ -17,7 +17,7 @@
 
 ## Past projects & clients
 <ul>
-<li> Contributing author, <a href="https://www.bibliovault.org/BV.book.epl?ISBN=9781945246579" target="_blank">Archival Accessioning</a> by Audra Eagle Yun, published by Society of American Archivists, July 2021 </li>
+<li>Contributing author, <a href="https://www.bibliovault.org/BV.book.epl?ISBN=9781945246579" target="_blank">Archival Accessioning</a> by Audra Eagle Yun, published by Society of American Archivists (2021) </li>
 <li> <a href="https://www.clir.org" target="_blank">2021, Council on Library & Information Resources:</a> Consulting Data Analyst, contracted by CLIR to assist with regular reporting requirements to The Andrew W. Mellon Foundation. </li>
 <li> <a href="https://collectiveaccess.org"  target="_blank">2019-2021, Whirl-i-Gig:</a> Full-time consultant, assisting museum and archives clients with implementation of open source CollectiveAccess collection management and presentation software</li>
 	<li> <a href="https://www.whitney.org/"  target="_blank">2019, Whitney Museum of American Art, conservation department</a>: Artwork assessment and condition report for a time-based media acquisition.
