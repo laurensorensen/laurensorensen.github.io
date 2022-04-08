@@ -11,8 +11,9 @@
 <hr />
 
 ## Current 
-* **Digital Projects & Data Manager,** [Stanford University](ttps://exhibits.stanford.edu/virtual-tribunals/about/about-the-project/)
+* **Digital Projects & Data Manager,** [Stanford University Libraries, Digital Library Systems & Services](https://exhibits.stanford.edu/virtual-tribunals/about/about-the-project/)
 * **Editorial Board,** [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image/)
+* **Metadata consultant,** [Mike Kelley Foundation for the Arts](https://www.mikekelleyfoundation.org/)
 <hr />
 
 ## Past projects & clients
