@@ -8,6 +8,10 @@
 * Digital preservation & access project management
 * Education and training
 
+
+
+ [<img src="/seal-cspo.png" alt="cspo" width="200" height="200"/>](https://bcert.me/sxdgbqrar)
+
 <hr />
 
 ## Current 
