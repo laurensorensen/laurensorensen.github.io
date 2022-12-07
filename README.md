@@ -1,6 +1,6 @@
 
 
-<hr />
+
 ## Services 
 * Archival footage research for creative projects
 * Audiovisual media archival assessment
@@ -9,8 +9,6 @@
 * Education and training
 * Contact for CV
 
-
-<hr />
 
 ## Current 
 * **Digital Projects & Data Manager,** [Stanford University Libraries, Digital Library Systems & Services](https://exhibits.stanford.edu/virtual-tribunals/about/about-the-project/)
