@@ -1,5 +1,5 @@
 
-## [CV [PDF file]](https://laurensorensen.github.io/CV_website_2020.pdf)
+##
 <hr />
 ## Services 
 * Archival footage research for creative projects
@@ -7,10 +7,8 @@
 * Video conservation consultation
 * Digital preservation & access project management
 * Education and training
+* Contact for CV
 
-
-
- [<img src="/seal-cspo.png" alt="cspo" width="200" height="200"/>](https://bcert.me/sxdgbqrar)
 
 <hr />
 
@@ -56,5 +54,7 @@ Coordinating digitization and online access to the archives of Frank Lloyd Wrigh
 	</li>
 	
 <hr >
+ [<img src="/seal-cspo.png" alt="cspo" width="200" height="200"/>](https://bcert.me/sxdgbqrar)
+
 	<p>
           <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
