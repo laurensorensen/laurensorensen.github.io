@@ -55,7 +55,7 @@ Coordinating digitization and online access to the archives of Frank Lloyd Wrigh
 	
 </hr >
 <hr>
-[<img src="/seal-cspo.png" alt="cspo" width="200" height="200"/>](https://bcert.me/sxdgbqrar)
+![<img src="/seal-cspo.png" alt="cspo" width="200" height="200"/>](https://bcert.me/sxdgbqrar)
 </hr>
 <p> 
 <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
