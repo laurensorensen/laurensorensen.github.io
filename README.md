@@ -54,9 +54,10 @@ Coordinating digitization and online access to the archives of Frank Lloyd Wrigh
 	</li>
 	
 </hr >
-<hr>
-![<img src="/seal-cspo.png" alt="cspo" width="200" height="200"/>](https://bcert.me/sxdgbqrar)
-</hr>
+
+
+[![CSPO badge](/seal-cspo.png "CSPO")](https://bcert.me/sxdgbqrar)
+
 <p> 
 <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
 </p>
