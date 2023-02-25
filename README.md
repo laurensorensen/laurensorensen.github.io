@@ -7,7 +7,7 @@
 * Video conservation consultation
 * Digital preservation & access project management
 * Education and training
-* Contact for CV
+* **Contact for CV**
 
 
 ## Current 
