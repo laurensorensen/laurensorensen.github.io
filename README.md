@@ -17,8 +17,8 @@
 
 ## Past projects & clients
 <ul>
-<li>Metadata consultant, <a href="https://www.mikekelleyfoundation.org/" target="_blank">Mike Kelley Foundation for the Arts</a>: Designed and implemented modules in the organization's collections database tailored to moving image and audio collection metadata, and advised on digital file transfer. 
-<li>Archives database consultant, <a href="https://www.internationalfolkart.org/" target="_blank">Museum of International Folk Art</a>: Worked with archives and technology team to export data from a defunct database, and clean up the data using OpenRefine.
+<li><a href="https://www.mikekelleyfoundation.org/" target="_blank">2022-2024, Mike Kelley Foundation for the Arts</a>: Metadata consultant, designed and implemented modules in the organization's collections database tailored to moving image and audio collection metadata, and advised on digital file transfer. 
+<li><a href="https://www.internationalfolkart.org/" target="_blank">2024, Museum of International Folk Art</a>: Archives database consultant, worked with archives and technology team to export data from a defunct database, and clean up the data using OpenRefine.
 <li>Contributing author, <a href="https://www.bibliovault.org/BV.book.epl?ISBN=9781945246579" target="_blank">Archival Accessioning</a> by Audra Eagle Yun, published by Society of American Archivists (2021) </li>
 <li> <a href="https://www.clir.org" target="_blank">2021, Council on Library & Information Resources:</a> Consulting Data Analyst, contracted by CLIR to assist with regular reporting requirements to The Andrew W. Mellon Foundation. </li>
 <li> <a href="https://collectiveaccess.org"  target="_blank">2019-2021, Whirl-i-Gig:</a> Full-time consultant, assisting museum and archives clients with implementation of open source CollectiveAccess collection management and presentation software</li>
