@@ -13,11 +13,12 @@
 ## Current 
 * **Digital Projects & Data Manager,** [Stanford University Libraries, Digital Library Systems & Services](https://exhibits.stanford.edu/virtual-tribunals/about/about-the-project/)
 * **Editorial Board,** [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image/)
-* **Metadata consultant,** [Mike Kelley Foundation for the Arts](https://www.mikekelleyfoundation.org/)
 <hr />
 
 ## Past projects & clients
 <ul>
+<li>Metadata consultant, [Mike Kelley Foundation for the Arts](https://www.mikekelleyfoundation.org/): Designed and implemented modules in the organization's collections database tailored to moving image and audio collection metadata, and advised on digital file transfer. 
+<li>Archives database consultant, [Museum of International Folk Art](https://www.internationalfolkart.org/): Worked with archives and technology team to export data from a defunct database, and clean up the data using [OpenRefine](https://openrefine.org/).
 <li>Contributing author, <a href="https://www.bibliovault.org/BV.book.epl?ISBN=9781945246579" target="_blank">Archival Accessioning</a> by Audra Eagle Yun, published by Society of American Archivists (2021) </li>
 <li> <a href="https://www.clir.org" target="_blank">2021, Council on Library & Information Resources:</a> Consulting Data Analyst, contracted by CLIR to assist with regular reporting requirements to The Andrew W. Mellon Foundation. </li>
 <li> <a href="https://collectiveaccess.org"  target="_blank">2019-2021, Whirl-i-Gig:</a> Full-time consultant, assisting museum and archives clients with implementation of open source CollectiveAccess collection management and presentation software</li>
