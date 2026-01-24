@@ -11,7 +11,7 @@
 
 
 ## Current 
-* **Digital Projects & Data Manager,** [Stanford University Libraries, Digital Library Systems & Services](https://exhibits.stanford.edu/virtual-tribunals/about/about-the-project/)
+* **Project Manager** [University of California, Berkeley Library](https://www.lib.berkeley.edu/)
 * **Editorial Board,** [The Moving Image](https://www.upress.umn.edu/journal-division/journals/the-moving-image/)
 <hr />
 
